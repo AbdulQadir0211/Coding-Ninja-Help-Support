@@ -73,10 +73,7 @@ The **Coding Ninja Multi-Agent Chatbot** is an intelligent assistant that intell
 
 ### 🆓 Free-Tier / Open-Source LLMs Considered:
 
-* **[Gemma (via Hugging Face)](https://huggingface.co/google/gemma-7b)**
-* **[Mistral-7B-Instruct (Hugging Face)](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1)**
-* **[GPT-3.5-Turbo](https://platform.openai.com/docs/guides/gpt)** (free credits on OpenAI)
-* **[Google Gemini 1.5 Flash](https://cloud.google.com/vertex-ai/docs/generative-ai/overview)** (via Google Cloud)
+* **[Groq API]((https://console.groq.com/playground?model=deepseek-r1-distill-llama-70b))**
 
 ### 🎯 Justification for LLM Choices:
 
@@ -112,7 +109,7 @@ Ensure `.env` contains your Groq API key or substitute with any supported LLM.
 
 ## Links
 
-[Try Here](https://example.com)
+[Try Here]((https://chatbot-service-631660288033.us-central1.run.app/))
 
 ## Agent Architecture
 
