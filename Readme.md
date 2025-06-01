@@ -73,7 +73,7 @@ The **Coding Ninja Multi-Agent Chatbot** is an intelligent assistant that intell
 
 ### 🆓 Free-Tier / Open-Source LLMs Considered:
 
-* **[Groq API]((https://console.groq.com/playground?model=deepseek-r1-distill-llama-70b))**
+* **[Groq API](https://console.groq.com/playground?model=deepseek-r1-distill-llama-70b)**
 
 ### 🎯 Justification for LLM Choices:
 
@@ -109,7 +109,7 @@ Ensure `.env` contains your Groq API key or substitute with any supported LLM.
 
 ## Links
 
-[Try Here]((https://chatbot-service-631660288033.us-central1.run.app/))
+[Try Here](https://chatbot-service-631660288033.us-central1.run.app/)
 
 ## Agent Architecture
 
